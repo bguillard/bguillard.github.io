@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <!-- <script src="https://kit.fontawesome.com/6cf22821c8.js" crossorigin="anonymous"></script> -->
+  <style>
+    .centered_div {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+    }
+    .div_sidebyside{
+      display: inline-block;
+      margin-left: auto;
+      margin-right: 15px;
+      width: 20%;
+      }
+    .div_rounded_corners {
+      display: inline-block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 30px;
+      background: #6c6a6a;
+      text-align: center;
+      width: 90px;
+      height: 35px;
+      font-size: large;
+      margin-top: 20px;
+      padding-top: 7px;
+    }
+    .div_text {
+      display: block;
+      padding-left: 30px;
+      padding-right: 30px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align:justify;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      border-radius: 15px;
+    }
+    .hr_style {
+      border: 2px solid rgba(199, 196, 196, 0.686);
+      border-radius: 2px;
+    }
+  </style>
+
+  <body>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+  </body>
+
+</html>
