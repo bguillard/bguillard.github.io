@@ -27,11 +27,13 @@ layout: home
 
 .small {
 	width: 26%; 
+	/*width: 32%; */
 }
 
 .big {
 	width: 68%;
 }
+
 </style>
 
 <div>
@@ -47,7 +49,7 @@ layout: home
     </div>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<div style="clear: both;"> </div>
 
 ***
 
@@ -78,7 +80,7 @@ layout: home
     </div>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br>
+<div style="clear: both;"> </div>
 
 <div>
     <div class="split left small">
@@ -100,7 +102,7 @@ layout: home
     </div>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<div style="clear: both;"> </div>
 
 <div>
     <div class="split left small">
@@ -123,7 +125,7 @@ layout: home
     </div>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<div style="clear: both;"> </div>
 
 <div>
     <div class="split left small">
