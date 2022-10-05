@@ -45,7 +45,8 @@ layout: home
     <div class="split left big">
     	<h1>Hello!</h1>
         <p>I am Benoît, a 4th year PhD student at <b><a href="http://cvlab.epfl.ch">EPFL’s CvLab</a></b>, supervised by <b><a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Prof. Pascal Fua</a></b>.</p>
-        <p>My work is focused on finding good representations for 3D surface reconstruction and manipulation with neural networks. <br>I was lucky to do research internships at Microsoft Research in 2021 and Meta (Reality Labs) in 2022.</p>
+        <p>My work is focused on finding good representations for 3D surface reconstruction and manipulation with neural networks. 
+        <br>I was lucky to be a research intern at Microsoft Research in 2021 and Meta Reality Labs in 2022.</p>
     </div>
 </div>
 
@@ -55,6 +56,28 @@ layout: home
 
 # Publications
 *(full list on [scholar](https://scholar.google.com/citations?user=9c5ruhsAAAAJ&hl=en))*
+
+<div>
+    <div class="split left small">
+        <div>
+        <img id="pp" src="/assets/dig.jpg" />
+        </div>
+    </div>
+    <div class="split right big">
+    	<h2>DIG: Draping Implicit Garment over the Human Body</h2>
+    	<p><a href="https://liren2515.github.io/page/">Ren Li</a>,
+        <b>Benoit Guillard</b>, 
+        <a href="https://scholar.google.com/citations?user=yz2P_aUAAAAJ&hl=en&oi=ao">Edoardo Remelli</a>,
+        <a href="https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en&oi=ao">Pascal Fua</a> ; at ACCV 2022 (Oral)</p>
+        <p><b>
+        	<a href="https://arxiv.org/abs/2209.10845">[Paper]</a>
+        	<a href="https://github.com/liren2515/DIG">[Code]</a>
+        </b></p>
+        <p>Reconstructing and draping garments over a parametric body model, with neural network trained to avoid collisions.</p>
+    </div>
+</div>
+
+<div style="clear: both;"> </div>
 
 <div>
     <div class="split left small">
