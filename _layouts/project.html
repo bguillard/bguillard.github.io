@@ -5,6 +5,12 @@
 
   <!-- <script src="https://kit.fontawesome.com/6cf22821c8.js" crossorigin="anonymous"></script> -->
   <style>
+
+
+.wrapper { max-width: -webkit-calc(800px - (10px * 2)); max-width: calc(800px - (10px * 2)); margin-right: auto; margin-left: auto; padding-right: 10px; padding-left: 10px; }
+@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (10px)); max-width: calc(800px - (10px)); padding-right: 10px; padding-left: 10px; } }
+
+
     .centered_div {
       display: block;
       margin-left: auto;
@@ -30,10 +36,14 @@
       margin-top: 20px;
       padding-top: 7px;
     }
-    .div_text {
+    .hr_style {
+      border: 2px solid rgba(199, 196, 196, 0.686);
+      border-radius: 2px;
+    }
+    .div_abstract {
       display: block;
-      padding-left: 30px;
-      padding-right: 30px;
+      padding-left: 10px;
+      padding-right: 10px;
       padding-top: 20px;
       padding-bottom: 20px;
       text-align:justify;
@@ -41,10 +51,133 @@
       margin-bottom: 20px;
       border-radius: 15px;
     }
-    .hr_style {
-      border: 2px solid rgba(199, 196, 196, 0.686);
+    .div_text {
+      display: block;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align:justify;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      border-radius: 15px;
+    }
+    .div_gray {
+      background: #f1f1f1;
+    }
+    .hr_style_thin {
+      border: 1px solid rgba(199, 196, 196, 0.686);
       border-radius: 2px;
     }
+    .div_aligned_top {
+      display: flex;
+      align-items: top;
+      }
+    .div_refs {
+      display: block;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+      text-align: left;
+      margin-top: 0px;
+      margin-bottom: 10px;
+      border-radius: 0px;
+    }
+
+
+
+.div_aligned {
+  display: flex;
+  align-items: center;
+}
+
+.split_img_if_possible{
+    width: 47%;
+    display:inline-block;
+    vertical-align:middle;
+  }
+
+.left{
+  margin-left:3%;
+}
+
+.right{
+  margin-right:3%;
+}
+
+.split_text_if_possible{
+    width: 50%;
+    display:inline-block;
+  }
+
+@media only screen and (max-width: 700px) {
+  .div_aligned {
+    display: inline;
+    align-items: stretch;
+  }
+
+  .split_img_if_possible{
+    width: 100%;
+    display:block;
+    margin:auto;
+    padding-bottom:2px;
+  }
+
+  .split_text_if_possible{
+    width: 100%;
+    display:inline-block;
+  }
+}
+
+.auto-resizable-iframe {
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.auto-resizable-iframe > div {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0px;
+}
+
+.auto-resizable-iframe iframe {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+
+.auto-resizable-mv {
+  max-width: 250px;
+  margin: 0px auto;
+}
+
+.auto-resizable-mv > div {
+  position: relative;
+  padding-bottom: 172%;
+  height: 0px;
+}
+
+.auto-resizable-mv model-viewer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+
+table { margin-bottom: 0px; width: 100%; text-align: left; border-collapse: collapse; border: 0px solid #e8e8e8; }
+table tr:nth-child(even) { background-color: #f1f1f1; }
+table th, table td { padding: 0px 0px; }
+table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
+table td { border: 0; width: 30%;}
+table { border: 0; }
+
+
   </style>
 
   <body>
