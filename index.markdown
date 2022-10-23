@@ -139,7 +139,7 @@ layout: home
         <a href="https://scholar.google.com/citations?user=yz2P_aUAAAAJ&hl=en&oi=ao">Edoardo Remelli</a><sup>*</sup>,
         <a href="https://www.linkedin.com/in/pierre-yvernay-838a2016a/">Pierre Yvernay</a>,
         <a href="https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en&oi=ao">Pascal Fua</a> ; at ICCV 2021
-      	<i>( <sup>*</sup>= equal contributions)</i></p>
+      	<i>( <sup>*</sup> indicates equal contributions)</i></p>
         <p><b>
         	<a href="https://arxiv.org/abs/2104.00482">[Paper]</a>
         	<a href="https://github.com/cvlab-epfl/sketch2mesh">[Code]</a>
@@ -168,3 +168,37 @@ layout: home
         <p>A network architecture mixing 3D convolutions and local surface patches for reconstructing object from a single image.</p>
     </div>
 </div>
+<div style="clear: both;"> </div>
+<br>
+
+***
+# Past, unpublished work
+
+<div>
+    <div class="split left small">
+        <div>
+        <img id="pp" src="/assets/scamp.jpg" />
+        </div>
+    </div>
+    <div class="split right big">
+        <h2>AnalogNet: Convolutional Neural Network Inference on Analog Focal Plane Sensor Processors</h2>
+        <p><a href="https://scholar.google.com/citations?user=KsuL4YgAAAAJ&hl=en">Matthew Z Wong</a><sup>*</sup>,
+        <b>Benoit Guillard</b><sup>*</sup>, 
+        <a href="https://rmurai.co.uk/">Riku Murai</a>, 
+        <a href="https://www.sajad-saeedi.ca/">Sajad Saeedi</a>, 
+        <a href="https://www.doc.ic.ac.uk/~phjk/">Paul Kelly</a>
+        <i>( <sup>*</sup> indicates equal contributions)</i></p>
+        <p><b>
+            <a href="https://arxiv.org/abs/2209.10845">[arXiv]</a>
+            <a href="https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-pg-projects/Optimising-convolutional-neural-networks-for-super-fast-inference-on-focal-plane-sensor-processor-arrays.pdf">[Master thesis]</a>
+        </b></p>
+        <p>A low-level and super lightweight CNN implementation running directly on the analog light sensor of a special camera, <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/">SCAMP5</a>.</p>
+    </div>
+</div>
+
+<div style="clear: both;"> </div>
+<br>
+
+***
+# Academic services
+I was a reviewer for CVPR (2022 best reviewer award), ICCV, ECCV, ACCV, NeurIPS (2022 top reviewer), ICLR, ICML, C&G.
