@@ -35,7 +35,7 @@ description: MeshUDF Fast and Differentiable Meshing of Unsigned Distance Field 
 
 <div class="centered_div big auto-resizable-iframe">
   <div>
-    <iframe frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/TVMwnazd9lQ"></iframe>
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/TVMwnazd9lQ"></iframe>
   </div>
 </div>
 
