@@ -70,6 +70,7 @@ layout: home
         <a href="https://scholar.google.com/citations?user=yz2P_aUAAAAJ&hl=en&oi=ao">Edoardo Remelli</a>,
         <a href="https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en&oi=ao">Pascal Fua</a> ; at ACCV 2022 (Oral)</p>
         <p><b>
+            <a href="https://liren2515.github.io/page/dig/dig.html">[Project Page]</a>
         	<a href="https://arxiv.org/abs/2209.10845">[Paper]</a>
         	<a href="https://github.com/liren2515/DIG">[Code]</a>
         </b></p>

@@ -82,7 +82,7 @@ description: MeshUDF Fast and Differentiable Meshing of Unsigned Distance Field 
 
   <div style="width: 100%; display:inline-block;">
     
-The UDF of a pair of trousers is meshed by either <b>(a)</b> Marching Cubes [<i>MC</i>] an the ε>0 level set, <b>(b)</b> meshing a dense point cloud as in [<i>NDF</i>], or <b>(c)</b>  our algorithm.
+The UDF of a pair of trousers is meshed by either <b>(a)</b> Marching Cubes [<i>MC</i>] on the ε>0 level set, <b>(b)</b> meshing a dense point cloud as in [<i>NDF</i>], or <b>(c)</b>  our algorithm.
 <br>
 Using <b>(a)</b>, the shape is inflated and artificially thickened (visible at the leg openings). With <b>(b)</b>, the mesh is open but rough, and the procedure is slow. In contrast, our method <b>(c)</b> quickly obtains an open and regular mesh.
 
