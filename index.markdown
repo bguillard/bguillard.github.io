@@ -190,7 +190,7 @@ layout: home
         <a href="https://www.doc.ic.ac.uk/~phjk/">Paul Kelly</a>
         <i>( <sup>*</sup> indicates equal contributions)</i></p>
         <p><b>
-            <a href="https://arxiv.org/abs/2209.10845">[arXiv]</a>
+            <a href="https://arxiv.org/abs/2006.01765">[arXiv]</a>
             <a href="https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-pg-projects/Optimising-convolutional-neural-networks-for-super-fast-inference-on-focal-plane-sensor-processor-arrays.pdf">[Master thesis]</a>
         </b></p>
         <p>A low-level and super lightweight CNN implementation running directly on the analog light sensor of a special camera, <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/">SCAMP5</a>.</p>
