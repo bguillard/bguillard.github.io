@@ -60,6 +60,31 @@ layout: home
 <div>
     <div class="split left small">
         <div>
+        <img id="pp" src="/assets/drapenet.jpg" />
+        </div>
+    </div>
+    <div class="split right big">
+    	<h2>DrapeNet: Garment Generation and Self-Supervised Draping</h2>
+    	<p><a href="https://liren2515.github.io/page/">Ren Li</a><sup>*</sup>,
+        <a href="https://scholar.google.com/citations?user=PpHLOpQAAAAJ&hl=en">Luca De Luigi</a><sup>*</sup>,
+        <b>Benoit Guillard</b>, 
+        <a href="https://people.epfl.ch/mathieu.salzmann?lang=en">Mathieu Salzmann</a>,
+        <a href="https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en&oi=ao">Pascal Fua</a> ; at CVPR 2023
+        <i>( <sup>*</sup> indicates equal contributions)</i></p>
+        <p><b>
+            <a href="https://liren2515.github.io/page/drapenet/drapenet.html">[Project Page]</a>
+        	<a href="https://arxiv.org/abs/2211.11277">[Paper]</a>
+        	<a href="https://github.com/liren2515/DrapeNet">[Code]</a>
+        </b></p>
+        <p>We use <a href="https://bguillard.github.io/meshudf/">MeshUDF</a> as a learned parameterization of garments, and learn to drape them without supervision - in the manner of <a href="http://mslab.es/projects/SNUG/">SNUG</a>, but with a single network for a whole category.</p>
+    </div>
+</div>
+
+<div style="clear: both;"> </div>
+
+<div>
+    <div class="split left small">
+        <div>
         <img id="pp" src="/assets/dig.jpg" />
         </div>
     </div>
