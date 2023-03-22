@@ -227,4 +227,4 @@ layout: home
 
 ***
 # Academic services
-I was a reviewer for CVPR (2022 best reviewer award), ICCV, ECCV, ACCV, NeurIPS (2022 top reviewer), ICLR, ICML, C&G.
+I was a reviewer for CVPR (2022 best reviewer award), ICCV, ECCV, ACCV, NeurIPS (2022 top reviewer), ICLR, ICML, SIGGRAPH, C&G.
