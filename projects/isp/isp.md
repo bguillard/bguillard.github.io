@@ -33,11 +33,11 @@ description: ISP Multi-Layered Garment Draping with Implicit Sewing Patterns
     </p></div>
 </div>
 
-<!-- <div class="centered_div big auto-resizable-iframe">
+<div class="centered_div big auto-resizable-iframe">
   <div>
-    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/TVMwnazd9lQ"></iframe>
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/f2t8XglQOuM"></iframe>
   </div>
-</div> -->
+</div>
 
 
 <div class="div_abstract">
