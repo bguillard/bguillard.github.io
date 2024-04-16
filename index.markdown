@@ -44,7 +44,7 @@ layout: home
     </div>
     <div class="split left big">
     	<h1>Hello!</h1>
-        <p>I am Benoît, a 4th year PhD student at <b><a href="http://cvlab.epfl.ch">EPFL’s CvLab</a></b>, supervised by <b><a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Prof. Pascal Fua</a></b>.</p>
+        <p>I am Benoît, a researcher at <b><a href="https://www.neuralconcept.com/"> <img src="assets/nc.jpg" height="17px"> Neural Concept</a></b>. I graduated in 2023 from my PhD at <b><a href="http://cvlab.epfl.ch">EPFL’s CvLab</a></b>, supervised by <b><a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Prof. Pascal Fua</a></b>.</p>
         <p>My work is focused on finding good representations for 3D surface reconstruction and manipulation with neural networks. 
         <br>I was a research intern at Microsoft Research in 2021 and Meta Reality Labs in 2022.</p>
     </div>
