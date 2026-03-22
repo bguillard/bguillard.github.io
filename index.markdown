@@ -44,7 +44,7 @@ layout: home
     </div>
     <div class="split left big">
     	<h1>Hello!</h1>
-        <p>I am Benoît, a researcher at <b><a href="https://www.neuralconcept.com/"> <img src="assets/nc.jpg" height="17px"> Neural Concept</a></b>. I graduated in 2023 from my PhD at <b><a href="http://cvlab.epfl.ch">EPFL’s CvLab</a></b>, supervised by <b><a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Prof. Pascal Fua</a></b>.</p>
+        <p>I am Benoît, a researcher at <b><a href="https://www.neuralconcept.com/"> <img src="assets/nc.jpg" height="17px"> Neural Concept</a></b>. I graduated in 2023 from my PhD at <b><a href="http://cvlab.epfl.ch">EPFL’s CvLab</a></b>, supervised by <b><a href="https://people.epfl.ch/pascal.fua?lang=en">Prof. Pascal Fua</a></b>.</p>
         <p>My work is focused on finding good representations for 3D surface reconstruction and manipulation with neural networks. 
         <br>I was a research intern at Microsoft Research in 2021 and Meta Reality Labs in 2022.</p>
     </div>
@@ -216,7 +216,8 @@ layout: home
         <i>( <sup>*</sup> indicates equal contributions)</i></p>
         <p><b>
             <a href="https://arxiv.org/abs/2006.01765">[arXiv]</a>
-            <a href="https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-pg-projects/Optimising-convolutional-neural-networks-for-super-fast-inference-on-focal-plane-sensor-processor-arrays.pdf">[Master thesis]</a>
+            <!-- <a href="https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-pg-projects/Optimising-convolutional-neural-networks-for-super-fast-inference-on-focal-plane-sensor-processor-arrays.pdf">[Master thesis]</a> -->
+            <a href="assets/report3.pdf">[Master thesis]</a>
         </b></p>
         <p>A low-level and super lightweight CNN implementation running directly on the analog light sensor of a special camera, <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/">SCAMP5</a>.</p>
     </div>
